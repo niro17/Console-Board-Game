@@ -1,6 +1,4 @@
 # Console-Board-Game
-20 x 2 - Console Board Game Description
-
 **20 x 2** is a two-player board game played between a human player and a computer. The game board consists of 20 blocks, numbered from 1 to 20 for both players. The goal is to move a pawn, represented by an "X", from block 1 to block 20. The game introduces a few twists with black holes and movement rules that create unique challenges for players.
 
 ### Gameplay
